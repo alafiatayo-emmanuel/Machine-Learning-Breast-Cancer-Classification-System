@@ -65,7 +65,7 @@ This project highlights the applicability of Logistic Regression in a critical h
 
 ## References
 
-- [Wisconsin Breast Cancer Dataset](link-to-dataset)
+- [Wisconsin Breast Cancer Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 - Research papers and articles related to logistic regression and its applications in medical data science.
 
 ## Contributing
